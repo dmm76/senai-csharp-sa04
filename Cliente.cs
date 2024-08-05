@@ -17,7 +17,7 @@ namespace CRUD
         public string email { get; set; }
         public string cidade { get; set; }
 
-        SqlConnection con = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\SENAI_APP\\Projetos Emerson Drive\\Desenvolvimento de Programas Prof Emerson-20240805T140528Z-001\\Desenvolvimento de Programas Prof Emerson\\CRUD\\DbCliente.mdf;Integrated Security=True");
+        SqlConnection con = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Master10\\Documents\\GitHub\\senai-csharp-sa04\\DbCliente.mdf;Integrated Security=True");
 
         public List<Cliente> listacliente()
         {
