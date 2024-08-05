@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("CRUD")]
+[assembly: AssemblyTitle("AppFunc")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Sistema Fiep")]
-[assembly: AssemblyProduct("CRUD")]
+[assembly: AssemblyProduct("AppFunc")]
 [assembly: AssemblyCopyright("Copyright © Sistema Fiep 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("7eb1dc09-f187-4418-9c3a-0a130e5d2006")]
+[assembly: Guid("7daf3d85-e7e5-4ce7-b120-07e5a796e129")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //

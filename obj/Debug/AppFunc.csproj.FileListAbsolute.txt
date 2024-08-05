@@ -1,0 +1,10 @@
+C:\Users\Master10\Documents\GitHub\projeto-csharp-emersom\AppFunc\bin\Debug\DbFuncionario.mdf
+C:\Users\Master10\Documents\GitHub\projeto-csharp-emersom\AppFunc\bin\Debug\DbFuncionario_log.ldf
+C:\Users\Master10\Documents\GitHub\projeto-csharp-emersom\AppFunc\obj\Debug\AppFunc.csproj.AssemblyReference.cache
+C:\Users\Master10\Documents\GitHub\projeto-csharp-emersom\AppFunc\obj\Debug\AppFunc.frmAniversario.resources
+C:\Users\Master10\Documents\GitHub\projeto-csharp-emersom\AppFunc\obj\Debug\AppFunc.frmPrincipal.resources
+C:\Users\Master10\Documents\GitHub\projeto-csharp-emersom\AppFunc\obj\Debug\AppFunc.Properties.Resources.resources
+C:\Users\Master10\Documents\GitHub\projeto-csharp-emersom\AppFunc\obj\Debug\AppFunc.csproj.GenerateResource.cache
+C:\Users\Master10\Documents\GitHub\projeto-csharp-emersom\AppFunc\obj\Debug\AppFunc.csproj.CoreCompileInputs.cache
+C:\Users\Master10\Documents\GitHub\projeto-csharp-emersom\AppFunc\obj\Debug\AppFunc.exe
+C:\Users\Master10\Documents\GitHub\projeto-csharp-emersom\AppFunc\obj\Debug\AppFunc.pdb
