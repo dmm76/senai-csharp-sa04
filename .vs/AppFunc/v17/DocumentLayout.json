@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Master10\\Documents\\GitHub\\projeto-csharp-emersom\\AppFunc\\",
+  "WorkspaceRootPath": "C:\\Users\\Master10\\Documents\\GitHub\\senai-csharp-sa04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DAF3D85-E7E5-4CE7-B120-07E5A796E129}|AppFunc.csproj|c:\\users\\master10\\documents\\github\\projeto-csharp-emersom\\appfunc\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7DAF3D85-E7E5-4CE7-B120-07E5A796E129}|AppFunc.csproj|c:\\users\\master10\\documents\\github\\senai-csharp-sa04\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7DAF3D85-E7E5-4CE7-B120-07E5A796E129}|AppFunc.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DAF3D85-E7E5-4CE7-B120-07E5A796E129}|AppFunc.csproj|C:\\Users\\Master10\\Documents\\GitHub\\projeto-csharp-emersom\\AppFunc\\frmaniversario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7DAF3D85-E7E5-4CE7-B120-07E5A796E129}|AppFunc.csproj|C:\\Users\\Master10\\Documents\\GitHub\\senai-csharp-sa04\\frmaniversario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7DAF3D85-E7E5-4CE7-B120-07E5A796E129}|AppFunc.csproj|solutionrelative:frmaniversario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -48,10 +48,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "frmAniversario.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Master10\\Documents\\GitHub\\projeto-csharp-emersom\\AppFunc\\frmAniversario.cs",
+              "DocumentMoniker": "C:\\Users\\Master10\\Documents\\GitHub\\senai-csharp-sa04\\frmAniversario.cs",
               "RelativeDocumentMoniker": "frmAniversario.cs",
               "ToolTip": "C:\\Users\\Master10\\Documents\\GitHub\\projeto-csharp-emersom\\AppFunc\\frmAniversario.cs [Design]",
-              "RelativeToolTip": "frmAniversario.cs [Design]",
+              "RelativeToolTip": "..\\projeto-csharp-emersom\\AppFunc\\frmAniversario.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T14:44:12.264Z"
             },
@@ -59,9 +59,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Master10\\Documents\\GitHub\\projeto-csharp-emersom\\AppFunc\\frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Master10\\Documents\\GitHub\\senai-csharp-sa04\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\Master10\\Documents\\GitHub\\projeto-csharp-emersom\\AppFunc\\frmPrincipal.cs [Design]",
+              "ToolTip": "C:\\Users\\Master10\\Documents\\GitHub\\senai-csharp-sa04\\frmPrincipal.cs [Design]",
               "RelativeToolTip": "frmPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T14:44:07.432Z",
